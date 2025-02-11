@@ -1,0 +1,2199 @@
+{
+    "metadata": {
+      "issue_time": "2025-02-11T02:58:17Z",
+      "response_timestamp": "2025-02-11T05:37:16Z",
+      "copyright": "This Application Programming Interface (API) is owned by the Bureau of Meteorology (Bureau). You must not use, copy or share it. Please contact us for more information on ways in which you can access our data. Follow this link http://www.bom.gov.au/inside/contacts.shtml to view our contact details."
+    },
+    "data": [
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 30,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 20,
+        "dew_point": 14,
+        "wind": {
+          "speed_knot": 18,
+          "speed_kilometre": 33,
+          "direction": "SW",
+          "gust_speed_knot": 29,
+          "gust_speed_kilometre": 54
+        },
+        "relative_humidity": 51,
+        "uv": 10,
+        "icon_descriptor": "shower",
+        "next_three_hourly_forecast_period": "2025-02-11T06:00:00Z",
+        "time": "2025-02-11T05:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T06:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 19,
+        "dew_point": 13,
+        "wind": {
+          "speed_knot": 18,
+          "speed_kilometre": 33,
+          "direction": "SW",
+          "gust_speed_knot": 31,
+          "gust_speed_kilometre": 57
+        },
+        "relative_humidity": 48,
+        "uv": 9,
+        "icon_descriptor": "windy",
+        "next_three_hourly_forecast_period": "2025-02-11T09:00:00Z",
+        "time": "2025-02-11T06:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T07:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 24,
+        "temp_feels_like": 17,
+        "dew_point": 12,
+        "wind": {
+          "speed_knot": 19,
+          "speed_kilometre": 35,
+          "direction": "SW",
+          "gust_speed_knot": 32,
+          "gust_speed_kilometre": 59
+        },
+        "relative_humidity": 47,
+        "uv": 9,
+        "icon_descriptor": "windy",
+        "next_three_hourly_forecast_period": "2025-02-11T09:00:00Z",
+        "time": "2025-02-11T07:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T08:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 23,
+        "temp_feels_like": 17,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 18,
+          "speed_kilometre": 33,
+          "direction": "SW",
+          "gust_speed_knot": 31,
+          "gust_speed_kilometre": 57
+        },
+        "relative_humidity": 46,
+        "uv": 9,
+        "icon_descriptor": "windy",
+        "next_three_hourly_forecast_period": "2025-02-11T09:00:00Z",
+        "time": "2025-02-11T08:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T09:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 15,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 17,
+          "speed_kilometre": 31,
+          "direction": "SW",
+          "gust_speed_knot": 30,
+          "gust_speed_kilometre": 56
+        },
+        "relative_humidity": 49,
+        "uv": 1,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T12:00:00Z",
+        "time": "2025-02-11T09:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T10:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 15,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 16,
+          "speed_kilometre": 30,
+          "direction": "SW",
+          "gust_speed_knot": 26,
+          "gust_speed_kilometre": 48
+        },
+        "relative_humidity": 49,
+        "uv": 1,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T12:00:00Z",
+        "time": "2025-02-11T10:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T11:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 19,
+        "temp_feels_like": 14,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 14,
+          "speed_kilometre": 26,
+          "direction": "SSW",
+          "gust_speed_knot": 23,
+          "gust_speed_kilometre": 43
+        },
+        "relative_humidity": 53,
+        "uv": 1,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T12:00:00Z",
+        "time": "2025-02-11T11:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T12:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 18,
+        "temp_feels_like": 14,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 12,
+          "speed_kilometre": 22,
+          "direction": "SSW",
+          "gust_speed_knot": 20,
+          "gust_speed_kilometre": 37
+        },
+        "relative_humidity": 55,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T15:00:00Z",
+        "time": "2025-02-11T12:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T13:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 18,
+        "temp_feels_like": 14,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "SSW",
+          "gust_speed_knot": 18,
+          "gust_speed_kilometre": 33
+        },
+        "relative_humidity": 56,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T15:00:00Z",
+        "time": "2025-02-11T13:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T14:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 17,
+        "temp_feels_like": 14,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "SSW",
+          "gust_speed_knot": 16,
+          "gust_speed_kilometre": 30
+        },
+        "relative_humidity": 57,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T15:00:00Z",
+        "time": "2025-02-11T14:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T15:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 17,
+        "temp_feels_like": 14,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "S",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 58,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T18:00:00Z",
+        "time": "2025-02-11T15:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T16:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 14,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "S",
+          "gust_speed_knot": 12,
+          "gust_speed_kilometre": 22
+        },
+        "relative_humidity": 61,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T18:00:00Z",
+        "time": "2025-02-11T16:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T17:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 13,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 6,
+          "speed_kilometre": 11,
+          "direction": "S",
+          "gust_speed_knot": 11,
+          "gust_speed_kilometre": 20
+        },
+        "relative_humidity": 62,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T18:00:00Z",
+        "time": "2025-02-11T17:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T18:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 13,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 6,
+          "speed_kilometre": 11,
+          "direction": "SSE",
+          "gust_speed_knot": 11,
+          "gust_speed_kilometre": 20
+        },
+        "relative_humidity": 67,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T21:00:00Z",
+        "time": "2025-02-11T18:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T19:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 13,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 6,
+          "speed_kilometre": 11,
+          "direction": "SSE",
+          "gust_speed_knot": 11,
+          "gust_speed_kilometre": 20
+        },
+        "relative_humidity": 67,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T21:00:00Z",
+        "time": "2025-02-11T19:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T20:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 13,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 6,
+          "speed_kilometre": 11,
+          "direction": "SSE",
+          "gust_speed_knot": 11,
+          "gust_speed_kilometre": 20
+        },
+        "relative_humidity": 67,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-11T21:00:00Z",
+        "time": "2025-02-11T20:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T21:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 13,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 6,
+          "speed_kilometre": 11,
+          "direction": "SSE",
+          "gust_speed_knot": 10,
+          "gust_speed_kilometre": 19
+        },
+        "relative_humidity": 70,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T00:00:00Z",
+        "time": "2025-02-11T21:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-11T22:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 12,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 12,
+          "gust_speed_kilometre": 22
+        },
+        "relative_humidity": 72,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T00:00:00Z",
+        "time": "2025-02-11T22:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-11T23:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 1,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 13,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "S",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 69,
+        "uv": 0,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T00:00:00Z",
+        "time": "2025-02-11T23:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T00:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 18,
+        "temp_feels_like": 15,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "S",
+          "gust_speed_knot": 16,
+          "gust_speed_kilometre": 30
+        },
+        "relative_humidity": 63,
+        "uv": 1,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T03:00:00Z",
+        "time": "2025-02-12T00:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T01:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 19,
+        "temp_feels_like": 16,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "S",
+          "gust_speed_knot": 17,
+          "gust_speed_kilometre": 31
+        },
+        "relative_humidity": 57,
+        "uv": 1,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T03:00:00Z",
+        "time": "2025-02-12T01:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T02:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 10,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 17,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "S",
+          "gust_speed_knot": 19,
+          "gust_speed_kilometre": 35
+        },
+        "relative_humidity": 51,
+        "uv": 1,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T03:00:00Z",
+        "time": "2025-02-12T02:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T03:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 23,
+        "temp_feels_like": 18,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 12,
+          "speed_kilometre": 22,
+          "direction": "SSW",
+          "gust_speed_knot": 20,
+          "gust_speed_kilometre": 37
+        },
+        "relative_humidity": 46,
+        "uv": 10,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T06:00:00Z",
+        "time": "2025-02-12T03:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T04:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 24,
+        "temp_feels_like": 20,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 12,
+          "speed_kilometre": 22,
+          "direction": "SSW",
+          "gust_speed_knot": 19,
+          "gust_speed_kilometre": 35
+        },
+        "relative_humidity": 41,
+        "uv": 10,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T06:00:00Z",
+        "time": "2025-02-12T04:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T05:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 5,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 20,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 13,
+          "speed_kilometre": 24,
+          "direction": "SSW",
+          "gust_speed_knot": 20,
+          "gust_speed_kilometre": 37
+        },
+        "relative_humidity": 40,
+        "uv": 10,
+        "icon_descriptor": "mostly_sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T06:00:00Z",
+        "time": "2025-02-12T05:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T06:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 21,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 13,
+          "speed_kilometre": 24,
+          "direction": "SSW",
+          "gust_speed_knot": 21,
+          "gust_speed_kilometre": 39
+        },
+        "relative_humidity": 38,
+        "uv": 9,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T09:00:00Z",
+        "time": "2025-02-12T06:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T07:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 21,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 14,
+          "speed_kilometre": 26,
+          "direction": "SSW",
+          "gust_speed_knot": 22,
+          "gust_speed_kilometre": 41
+        },
+        "relative_humidity": 39,
+        "uv": 9,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T09:00:00Z",
+        "time": "2025-02-12T07:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T08:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 21,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 14,
+          "speed_kilometre": 26,
+          "direction": "SSW",
+          "gust_speed_knot": 23,
+          "gust_speed_kilometre": 43
+        },
+        "relative_humidity": 38,
+        "uv": 9,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T09:00:00Z",
+        "time": "2025-02-12T08:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T09:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 20,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 14,
+          "speed_kilometre": 26,
+          "direction": "SSW",
+          "gust_speed_knot": 22,
+          "gust_speed_kilometre": 41
+        },
+        "relative_humidity": 41,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T12:00:00Z",
+        "time": "2025-02-12T09:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T10:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 24,
+        "temp_feels_like": 19,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 13,
+          "speed_kilometre": 24,
+          "direction": "SSW",
+          "gust_speed_knot": 21,
+          "gust_speed_kilometre": 39
+        },
+        "relative_humidity": 44,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T12:00:00Z",
+        "time": "2025-02-12T10:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T11:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 22,
+        "temp_feels_like": 18,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 12,
+          "speed_kilometre": 22,
+          "direction": "SSW",
+          "gust_speed_knot": 20,
+          "gust_speed_kilometre": 37
+        },
+        "relative_humidity": 50,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T12:00:00Z",
+        "time": "2025-02-12T11:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T12:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 18,
+        "dew_point": 12,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "SSW",
+          "gust_speed_knot": 18,
+          "gust_speed_kilometre": 33
+        },
+        "relative_humidity": 54,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T15:00:00Z",
+        "time": "2025-02-12T12:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T13:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 17,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "S",
+          "gust_speed_knot": 16,
+          "gust_speed_kilometre": 30
+        },
+        "relative_humidity": 55,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T15:00:00Z",
+        "time": "2025-02-12T13:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T14:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 20,
+        "temp_feels_like": 16,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "S",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 54,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T15:00:00Z",
+        "time": "2025-02-12T14:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T15:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 19,
+        "temp_feels_like": 15,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "S",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 53,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T18:00:00Z",
+        "time": "2025-02-12T15:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T16:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 18,
+        "temp_feels_like": 15,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SSE",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 56,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T18:00:00Z",
+        "time": "2025-02-12T16:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T17:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 17,
+        "temp_feels_like": 14,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SSE",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 57,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T18:00:00Z",
+        "time": "2025-02-12T17:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T18:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 13,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 12,
+          "gust_speed_kilometre": 22
+        },
+        "relative_humidity": 62,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T21:00:00Z",
+        "time": "2025-02-12T18:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T19:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 12,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 12,
+          "gust_speed_kilometre": 22
+        },
+        "relative_humidity": 65,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T21:00:00Z",
+        "time": "2025-02-12T19:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T20:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 14,
+        "temp_feels_like": 11,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 12,
+          "gust_speed_kilometre": 22
+        },
+        "relative_humidity": 67,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-12T21:00:00Z",
+        "time": "2025-02-12T20:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T21:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 13,
+        "temp_feels_like": 11,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 6,
+          "speed_kilometre": 11,
+          "direction": "SSE",
+          "gust_speed_knot": 11,
+          "gust_speed_kilometre": 20
+        },
+        "relative_humidity": 71,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T00:00:00Z",
+        "time": "2025-02-12T21:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-12T22:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 13,
+        "temp_feels_like": 10,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 12,
+          "gust_speed_kilometre": 22
+        },
+        "relative_humidity": 73,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T00:00:00Z",
+        "time": "2025-02-12T22:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-12T23:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 14,
+        "temp_feels_like": 11,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 70,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T00:00:00Z",
+        "time": "2025-02-12T23:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T00:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 13,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SE",
+          "gust_speed_knot": 16,
+          "gust_speed_kilometre": 30
+        },
+        "relative_humidity": 61,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T03:00:00Z",
+        "time": "2025-02-13T00:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T01:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 19,
+        "temp_feels_like": 16,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SSE",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 52,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T03:00:00Z",
+        "time": "2025-02-13T01:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T02:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 22,
+        "temp_feels_like": 19,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SSE",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 42,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T03:00:00Z",
+        "time": "2025-02-13T02:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T03:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 24,
+        "temp_feels_like": 21,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "SSE",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 36,
+        "uv": 10,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T06:00:00Z",
+        "time": "2025-02-13T03:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T04:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 26,
+        "temp_feels_like": 23,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 7,
+          "speed_kilometre": 13,
+          "direction": "S",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 33,
+        "uv": 10,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T06:00:00Z",
+        "time": "2025-02-13T04:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T05:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 28,
+        "temp_feels_like": 25,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "S",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 32,
+        "uv": 10,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T06:00:00Z",
+        "time": "2025-02-13T05:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T06:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 29,
+        "temp_feels_like": 26,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "SSW",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 31,
+        "uv": 9,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T09:00:00Z",
+        "time": "2025-02-13T06:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T07:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 29,
+        "temp_feels_like": 25,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "SSW",
+          "gust_speed_knot": 17,
+          "gust_speed_kilometre": 31
+        },
+        "relative_humidity": 33,
+        "uv": 9,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T09:00:00Z",
+        "time": "2025-02-13T07:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T08:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 29,
+        "temp_feels_like": 25,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "SSW",
+          "gust_speed_knot": 18,
+          "gust_speed_kilometre": 33
+        },
+        "relative_humidity": 35,
+        "uv": 9,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T09:00:00Z",
+        "time": "2025-02-13T08:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T09:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 28,
+        "temp_feels_like": 24,
+        "dew_point": 12,
+        "wind": {
+          "speed_knot": 12,
+          "speed_kilometre": 22,
+          "direction": "SSW",
+          "gust_speed_knot": 19,
+          "gust_speed_kilometre": 35
+        },
+        "relative_humidity": 39,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T12:00:00Z",
+        "time": "2025-02-13T09:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T10:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 27,
+        "temp_feels_like": 23,
+        "dew_point": 13,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "SSW",
+          "gust_speed_knot": 19,
+          "gust_speed_kilometre": 35
+        },
+        "relative_humidity": 42,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T12:00:00Z",
+        "time": "2025-02-13T10:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T11:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 25,
+        "temp_feels_like": 22,
+        "dew_point": 13,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "SSW",
+          "gust_speed_knot": 17,
+          "gust_speed_kilometre": 31
+        },
+        "relative_humidity": 49,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T12:00:00Z",
+        "time": "2025-02-13T11:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T12:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 24,
+        "temp_feels_like": 22,
+        "dew_point": 14,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "S",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 54,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T15:00:00Z",
+        "time": "2025-02-13T12:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T13:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 23,
+        "temp_feels_like": 21,
+        "dew_point": 13,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "S",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 53,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T15:00:00Z",
+        "time": "2025-02-13T13:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T14:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 23,
+        "temp_feels_like": 21,
+        "dew_point": 12,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SSE",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 50,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T15:00:00Z",
+        "time": "2025-02-13T14:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T15:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 22,
+        "temp_feels_like": 19,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SE",
+          "gust_speed_knot": 13,
+          "gust_speed_kilometre": 24
+        },
+        "relative_humidity": 42,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T18:00:00Z",
+        "time": "2025-02-13T15:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T16:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 18,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SE",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 45,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T18:00:00Z",
+        "time": "2025-02-13T16:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T17:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 20,
+        "temp_feels_like": 17,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "SE",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 49,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T18:00:00Z",
+        "time": "2025-02-13T17:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T18:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 19,
+        "temp_feels_like": 16,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "ESE",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 54,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T21:00:00Z",
+        "time": "2025-02-13T18:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T19:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 18,
+        "temp_feels_like": 15,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "ESE",
+          "gust_speed_knot": 16,
+          "gust_speed_kilometre": 30
+        },
+        "relative_humidity": 59,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T21:00:00Z",
+        "time": "2025-02-13T19:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T20:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 17,
+        "temp_feels_like": 14,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "ESE",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 64,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-13T21:00:00Z",
+        "time": "2025-02-13T20:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T21:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 13,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "ESE",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 70,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T00:00:00Z",
+        "time": "2025-02-13T21:00:00Z",
+        "is_night": true,
+        "next_forecast_period": "2025-02-13T22:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 15,
+        "temp_feels_like": 12,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "ESE",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 73,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T00:00:00Z",
+        "time": "2025-02-13T22:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-13T23:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 16,
+        "temp_feels_like": 13,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "ESE",
+          "gust_speed_knot": 17,
+          "gust_speed_kilometre": 31
+        },
+        "relative_humidity": 69,
+        "uv": 0,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T00:00:00Z",
+        "time": "2025-02-13T23:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T00:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 18,
+        "temp_feels_like": 15,
+        "dew_point": 11,
+        "wind": {
+          "speed_knot": 11,
+          "speed_kilometre": 20,
+          "direction": "ESE",
+          "gust_speed_knot": 18,
+          "gust_speed_kilometre": 33
+        },
+        "relative_humidity": 61,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T03:00:00Z",
+        "time": "2025-02-14T00:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T01:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 21,
+        "temp_feels_like": 17,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "ESE",
+          "gust_speed_knot": 19,
+          "gust_speed_kilometre": 35
+        },
+        "relative_humidity": 51,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T03:00:00Z",
+        "time": "2025-02-14T01:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T02:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 24,
+        "temp_feels_like": 21,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "ESE",
+          "gust_speed_knot": 19,
+          "gust_speed_kilometre": 35
+        },
+        "relative_humidity": 40,
+        "uv": 1,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T03:00:00Z",
+        "time": "2025-02-14T02:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T03:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 27,
+        "temp_feels_like": 23,
+        "dew_point": 10,
+        "wind": {
+          "speed_knot": 10,
+          "speed_kilometre": 19,
+          "direction": "E",
+          "gust_speed_knot": 16,
+          "gust_speed_kilometre": 30
+        },
+        "relative_humidity": 34,
+        "uv": 10,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T06:00:00Z",
+        "time": "2025-02-14T03:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T04:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 29,
+        "temp_feels_like": 26,
+        "dew_point": 9,
+        "wind": {
+          "speed_knot": 9,
+          "speed_kilometre": 17,
+          "direction": "ESE",
+          "gust_speed_knot": 15,
+          "gust_speed_kilometre": 28
+        },
+        "relative_humidity": 28,
+        "uv": 10,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T06:00:00Z",
+        "time": "2025-02-14T04:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T05:00:00Z"
+      },
+      {
+        "rain": {
+          "amount": {
+            "min": 0,
+            "max": null,
+            "units": "mm"
+          },
+          "chance": 0,
+          "precipitation_amount_10_percent_chance": 0,
+          "precipitation_amount_25_percent_chance": 0,
+          "precipitation_amount_50_percent_chance": 0
+        },
+        "temp": 31,
+        "temp_feels_like": 28,
+        "dew_point": 8,
+        "wind": {
+          "speed_knot": 8,
+          "speed_kilometre": 15,
+          "direction": "ESE",
+          "gust_speed_knot": 14,
+          "gust_speed_kilometre": 26
+        },
+        "relative_humidity": 24,
+        "uv": 10,
+        "icon_descriptor": "sunny",
+        "next_three_hourly_forecast_period": "2025-02-14T06:00:00Z",
+        "time": "2025-02-14T05:00:00Z",
+        "is_night": false,
+        "next_forecast_period": "2025-02-14T06:00:00Z"
+      }
+    ]
+  }
